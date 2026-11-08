@@ -1,0 +1,1 @@
+{ "name": "superpowers-toggle", "version": "0.1.0", "description": "输入框上方的 Superpowers 开关", "license": "MIT", "types": "./types/index.d.ts" }

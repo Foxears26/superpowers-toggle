@@ -1,0 +1,5 @@
+{
+  "name": "superpowers-toggle",
+  "owner": { "name": "Foxears26" },
+  "plugins": [{ "name": "superpowers-toggle", "source": "./" }]
+}
